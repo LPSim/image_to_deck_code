@@ -1,0 +1,1 @@
+`process_as_deck_code` in `crop_shape_image.py` can change official deck share image into deck code.
